@@ -8,7 +8,7 @@ Download and install VS code https://code.visualstudio.com/
 
 
 <h2>2. Create a folder that you need to install the project</h2>
--------------------------------
+
     cd /your/project/path
 -------------------------------
 cd go to your project
@@ -17,7 +17,7 @@ cd go to your project
 
 
 <h2>3. Install Cypress</h2>
--------------------------------
+
     npm install cypress --save-dev
 -------------------------------
 Input package details
@@ -29,7 +29,7 @@ After that, you will see package.json
 <img width="787" alt="Screenshot 2567-03-11 at 09 20 07" src="https://github.com/pantakarns/cypress/assets/102522906/3d8a3aee-e426-4233-aba8-535d4f563758">
 
 <h2>4. Run Cypress UI</h2>
--------------------------------
+
     npx cypress open
 -------------------------------
 
