@@ -37,3 +37,6 @@ You will see Cypress UI pop-up
 
 <img width="1047" alt="Screenshot 2567-03-11 at 09 30 02" src="https://github.com/pantakarns/cypress/assets/102522906/7ee442ab-1bf6-485b-8103-1fde6410b668">
 
+Select the demo project and try to run
+
+<img width="1270" alt="Screenshot 2567-03-11 at 23 16 45" src="https://github.com/pantakarns/cypress/assets/102522906/0092d81e-9205-4aa8-bff8-c2c433cf204b">
