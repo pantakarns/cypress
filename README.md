@@ -43,6 +43,6 @@ Select the demo project and try to run
 
 # Document
 
-Commands: https://docs.cypress.io/api/table-of-contents
+Cypress Commands: https://docs.cypress.io/api/table-of-contents
 
 MyHotel Website: https://panaryco.wixsite.com/myhotel
