@@ -20,6 +20,8 @@ cd go to your project
 
     npm install cypress --save-dev
 -------------------------------
+Note: If no Note.js, Please download this link https://nodejs.org/en/download
+
 Input package details
 
 <img width="505" alt="Screenshot 2567-03-11 at 09 16 41" src="https://github.com/pantakarns/cypress/assets/102522906/963ea9f3-5972-4039-9a74-c380c0ce96f7">
