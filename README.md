@@ -40,3 +40,9 @@ You will see Cypress UI pop-up
 Select the demo project and try to run
 
 <img width="1270" alt="Screenshot 2567-03-11 at 23 16 45" src="https://github.com/pantakarns/cypress/assets/102522906/0092d81e-9205-4aa8-bff8-c2c433cf204b">
+
+# Document
+
+Commands: https://docs.cypress.io/api/table-of-contents
+
+MyHotel Website: https://panaryco.wixsite.com/myhotel
