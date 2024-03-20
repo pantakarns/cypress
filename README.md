@@ -52,5 +52,5 @@ MyHotel Website: https://panaryco.wixsite.com/myhotel
 # Workshop
 1. Create a test script to input all fields to complete booking a hotel.
 2. Create a test script to verify warning messages when missing some mandatory field.
-3. Verify maximum text to the first name/last name field. 
+3. Verify the maximum length can show on the first name/last name field. 
 
